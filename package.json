@@ -1,0 +1,23 @@
+{
+  "name": "tipi",
+  "version": "1.0.0",
+  "description": "Time-Based OTP Generator",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "OTP",
+    "Authentication",
+    "TOTP",
+    "RFC 6238",
+    "One-Time Password",
+    "Time-Based",
+    "Password"
+  ],
+  "author": "shivam.",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
